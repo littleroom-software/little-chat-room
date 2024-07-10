@@ -19,3 +19,8 @@ compatibility_date = "2023-12-01"
 
 # [ai]
 # binding = "AI"
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "little-db"
+database_id = "901355c7-60cf-437b-af2c-bcf6850dc289"
