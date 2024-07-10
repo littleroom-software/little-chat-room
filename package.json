@@ -1,5 +1,5 @@
 {
-  "name": "litte-chat-room",
+  "name": "little-chat-room",
   "private": true,
   "scripts": {
     "build": "turbo build",
